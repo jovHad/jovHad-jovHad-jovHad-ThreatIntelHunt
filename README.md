@@ -30,8 +30,10 @@ The analysis revealed a suspected SYN Flood attack within the dataset, character
 The code for this project is implemented in Python using Jupyter Notebook. It utilizes various libraries such as Pandas, Matplotlib, Seaborn, Numpy, and Scipy for data analysis and visualization. The code includes functions for data aggregation, outlier detection, attack classification, and visualization.
 
 ### Some of the Graphs to Display for Example:
-   ![img_2.png](img_2.png)
-   ![img.png](img.png)
+   ![image](https://github.com/user-attachments/assets/a0a0254a-49a8-4716-9e54-599ac11d40c9)
+   
+   ![image](https://github.com/user-attachments/assets/fb733795-b15d-4def-bf38-7286e7535cde)
+
 ## Conclusion
 
 This project successfully developed a framework for analyzing network traffic data and detecting potential DoS attacks. The analysis identified a SYN Flood attack within the dataset, highlighting the importance of proactive threat hunting and anomaly detection in maintaining network security.
