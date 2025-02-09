@@ -1,4 +1,4 @@
-# Threat Hunting Project: Detecting Anomalies in Computer Network Communication
+# Threat Hunting Project: Detecting Anomalies in Computer Network Communication 🕵️‍♀️📊
 
 This project focuses on analyzing a dataset of network traffic logs and packets to identify anomalies and potential threats, specifically Denial of Service (DoS) attacks. The analysis utilizes Python libraries such as pandas, numpy, matplotlib, scipy, and seaborn for data manipulation, statistical analysis, and visualization.
 
